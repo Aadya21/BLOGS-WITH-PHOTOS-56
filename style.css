@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: deepskyblue;
+}
+div{
+    margin-top: 15px;
+}
+.imagesec{
+    display:flex;
+    justify-content: center;
+}
+.secstyle{
+    margin-left: 25px;
+    margin-right:25px;
+    background-color: cyan;
+}
